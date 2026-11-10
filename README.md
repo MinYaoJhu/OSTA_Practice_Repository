@@ -1,5 +1,7 @@
 # OSTA_Practice_Repository
 
+> **Status: in progress.** Practice notebooks will be added as I work through the book.
+
 ## Overview
 
 This repository is a **personal learning and practice environment** based on the book:
@@ -30,5 +32,6 @@ https://doi.org/10.1101/2025.11.20.688607
 ---
 
 ## Author
-Min-Yao Jhu
-Email: myj23@cam.ac.uk
+Min-Yao Jhu  
+Senior Research Scientist, Donald Danforth Plant Science Center  
+Email: [MJhu@danforthcenter.org](mailto:MJhu@danforthcenter.org) · Website: [minyaojhu.com](https://www.minyaojhu.com)
